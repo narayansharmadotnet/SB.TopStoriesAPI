@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SB.TopStoriesAPI", "SB.TopStoriesAPI\SB.TopStoriesAPI.csproj", "{12EFF973-491C-44AA-AB33-B6DB62591036}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SB.TopStoriesAPI.Test", "SB.TopStoriesAPI.Test\SB.TopStoriesAPI.Test.csproj", "{FEB4DC79-8273-4267-90B1-09EDA08FC583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12EFF973-491C-44AA-AB33-B6DB62591036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EFF973-491C-44AA-AB33-B6DB62591036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EFF973-491C-44AA-AB33-B6DB62591036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EFF973-491C-44AA-AB33-B6DB62591036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB4DC79-8273-4267-90B1-09EDA08FC583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB4DC79-8273-4267-90B1-09EDA08FC583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB4DC79-8273-4267-90B1-09EDA08FC583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB4DC79-8273-4267-90B1-09EDA08FC583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8E18BA6-184C-4ED9-B8AF-DFCCC64265BD}
+	EndGlobalSection
+EndGlobal
